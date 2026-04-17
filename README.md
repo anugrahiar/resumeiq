@@ -29,7 +29,6 @@ No backend. No API keys. Everything runs in the browser using Puter.js.
 - **ATS Scoring** — See how well your resume matches a job description
 - **AI Feedback** — Get specific suggestions, not just a number
 - **Resume Storage** — Keep all your resumes in one place
-- **Zero Setup** — No server, no .env file, just clone and run
 
 ---
 
